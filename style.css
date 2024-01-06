@@ -1,1 +1,77 @@
+body {
+    font-family: sans-serif;
+    color:
+}
 
+header {
+  background-color:#6B604B;
+  border-radius: 10px;
+  
+}
+
+#logo{
+    margin: 10px;
+}
+
+header a{
+    text-decoration: none;
+    background-color:#FFF5E1;
+    color: black;
+    padding: 0px 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+
+.color{
+  color:black;
+border: 7px solid #dbc766;
+border-radius: 15px;
+  background-color:#f0ca62;
+}
+
+footer{
+    background-color:#ede07b ;
+}
+footer p{
+background-color: #ffeab0;
+border-radius: 10px;
+}
+
+nav{
+    background-color:#FFF5E1 ;
+    border-radius: 10px;
+    border: 7px solid #322F28;
+    color: aliceblue;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.FantasticParty{
+ color: lightbrown;
+border: 7px solid #6B604B;
+border-radius: 15px;
+  background-color: #FFF5E1;
+}
+
+.tobar {
+  background-color:#6B604B;
+  border-radius: 11px;
+}
+
+.myNavigation{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.pop{
+  background-color: rgb(202, 168, 117) ;
+  border-radius:  5px;
+
+}
